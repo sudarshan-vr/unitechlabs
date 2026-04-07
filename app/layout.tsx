@@ -180,7 +180,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         </ThemeProvider>
         <Analytics />
         <SpeedInsights />
-              </body>
+      </body>
     </html>
   )
 }
