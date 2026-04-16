@@ -3,7 +3,7 @@ import styles from './Portfolio.module.css'
 
 const projects = [
   { id: '01', title: 'Agriculture Technology', category: 'AI · Computer Vision · IoT', desc: 'A sustainable AI-powered farm protection system using computer vision, sensors, and ultrasonic repellents to detect and deter animals safely.', tags: ['Computer Vision', 'IoT', 'Sustainability'] },
-  { id: '02', title: 'Craftuary Global', category: 'Social Platform · Community', desc: 'A community-based social media platform for creators of all kinds — IT enthusiasts, meme makers, artisans and more. Built for authentic connection at scale.', tags: ['Social Media', 'React', 'Community'] },
+  { id: '02', title: 'Enterprise Software', category: 'Data-Driven · SaaS · ERP', desc: 'Custom-built enterprise software engineered around your business processes — from CRM pipelines and ERP workflows to medical billing and learning platforms. Scalable, integrated, and built to last.', tags: ['CRM Systems', 'ERP Systems', 'LMS Platforms', 'Medical Stock-Inventory & Billing', 'Custom Enterprise SaaS'] },
   { id: '03', title: 'Domain & Hosting Platform', category: 'SaaS · Infrastructure', desc: 'Full-featured web hosting management panel giving businesses control over domains, SSL, cPanel, and CMS configurations — built for non-technical users.', tags: ['SaaS', 'Hosting', 'UX'] },
   { id: '04', title: 'Workflow Automation Suite', category: 'n8n · API · IoT', desc: 'Custom n8n-powered automation that connects apps, IoT devices, and data pipelines — eliminating manual overhead across operations.', tags: ['Automation', 'n8n', 'Enterprise'] },
 ]
